@@ -1,6 +1,4 @@
----
 
-````markdown
 # AI Finance Tracker 💰
 
 
