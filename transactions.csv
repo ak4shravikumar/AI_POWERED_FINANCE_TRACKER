@@ -1,7 +1,14 @@
-Date,Description,Amount,Category
-2025-08-01,Starbucks,250,Food
-2025-08-03,Uber,400,Transport
-2025-08-04,Netflix,500,Entertainment
-2025-08-05,Electricity Bill,1200,Bills
-2025-08-06,Pizza,300,Food
-2025-08-20,tea,70,Food
+Date,Description,Amount,Category,Month
+2025-08-01,swiggy lunch,150,Food,2025-08
+2025-08-02,uber taxi ride,300,Transport,2025-08
+2025-08-03,amazon purchase,1200,Shopping,2025-08
+2025-08-04,local groceries,450,Food,2025-08
+2025-08-05,ola cab,250,Transport,2025-08
+2025-08-06,zomato dinner,600,Food,2025-08
+2025-08-07,flipkart order,900,Shopping,2025-08
+2025-08-08,movie tickets,500,Entertainment,2025-08
+2025-08-09,coffee cafe,150,Food,2025-08
+2025-08-10,bus fare,40,Transport,2025-08
+2025-08-30,coffee,35,Other,2025-08
+2025-08-30,food ,150,Other,2025-08
+2025-08-30,taxi,120,Transport,
