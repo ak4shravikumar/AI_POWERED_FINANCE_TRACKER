@@ -119,7 +119,7 @@ Contributions are welcome!
 **Akash Ravikumar**
 
 * GitHub: [ak4shravikumar](https://github.com/ak4shravikumar)
-* Email: [your\_email@example.com](mailto:ak4shravikumar@gmail.com)
+* Email: [email@example.com](mailto:ak4shravikumar@gmail.com)
 
 ---
 
